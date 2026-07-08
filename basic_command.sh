@@ -11,4 +11,6 @@ git push origin <remote-branch-name>
 git checkout <branch-name>
 git switch <branch-name>
 
-#
+# pip command
+# freeze the current environment's installed packages and save them to a requirements.txt filegit 
+pip freeze > requirements.txt
