@@ -1,0 +1,6 @@
+#add all
+git add .
+#commit the changes with a message
+git commit -m "Your commit message here"
+# push the changes to the remote repository
+git push origin <remote-branch-name>
