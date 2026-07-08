@@ -1,4 +1,7 @@
 # mai-roo-kub
+Project for datawarehouse
+My name is Sasiphatcha Jearcharoenkit
+My nikname is SiCHA
 
 ---
 ## Basic git command
